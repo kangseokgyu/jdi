@@ -1,3 +1,6 @@
 [submodule "include/jdi/thread_pool"]
 	path = include/jdi/thread_pool
 	url = https://github.com/kangseokgyu/thread_pool.git
+[submodule "include/jdi/block_queue"]
+	path = include/jdi/block_queue
+	url = https://github.com/kangseokgyu/block_queue.git
