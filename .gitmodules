@@ -1,0 +1,3 @@
+[submodule "include/jdi/thread_pool"]
+	path = include/jdi/thread_pool
+	url = https://github.com/kangseokgyu/thread_pool.git
