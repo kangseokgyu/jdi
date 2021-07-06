@@ -4,3 +4,6 @@
 [submodule "include/jdi/block_queue"]
 	path = include/jdi/block_queue
 	url = https://github.com/kangseokgyu/block_queue.git
+[submodule "include/jdi/locked_queue"]
+	path = include/jdi/locked_queue
+	url = https://github.com/kangseokgyu/locked_queue
